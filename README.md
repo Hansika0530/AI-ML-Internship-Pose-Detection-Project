@@ -31,3 +31,9 @@ numpy 1.24.3
 ## What I Learned
 
 Through this project, I learned how computer vision and AI can work together for real-time human pose detection. I understood how MediaPipe detects body landmarks and how OpenCV processes webcam frames for live visualization. This technology is widely used in fitness tracking, virtual try-on systems, motion analysis, and gesture recognition applications.
+
+## Output
+
+<img width="1453" height="972" alt="Screenshot 2026-05-12 165346" src="https://github.com/user-attachments/assets/8c85b8c1-1187-492f-ace3-a3b5cecb89eb" />
+
+
